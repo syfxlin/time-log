@@ -1,0 +1,30 @@
+{
+  "name": "@syfxlin/time-log",
+  "version": "1.0.0",
+  "description": "Otstar Lin 的时间日志",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syfxlin/time-log.git"
+  },
+  "author": "syfxlin <syfxlin@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/syfxlin/time-log#readme",
+  "devDependencies": {
+    "vuepress-plugin-autobar": "boboidream/vuepress-bar"
+  },
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-back-to-top": "^1.5.5",
+    "@vuepress-reco/vuepress-plugin-rss": "^1.0.2",
+    "@vuepress/plugin-active-header-links": "^1.5.4",
+    "@vuepress/plugin-google-analytics": "^1.5.4",
+    "@vuepress/plugin-medium-zoom": "^1.5.4",
+    "@vuepress/plugin-nprogress": "^1.5.4",
+    "vuepress": "^1.5.4",
+    "vuepress-theme-reco": "^1.5.5"
+  }
+}

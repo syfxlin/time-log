@@ -4,6 +4,7 @@ module.exports = {
   title: "Otstar's Time-log",
   description:
     "Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术日志，一些阅读过的文章，笔记等",
+  dest: "dist",
   markdown: {
     lineNumbers: true,
   },

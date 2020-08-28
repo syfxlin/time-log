@@ -16,5 +16,5 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           publish_dir: ./dist
           cname: log.ixk.me
-          disable_nojekyll: true
+          enable_jekyll: false
           force_orphan: true

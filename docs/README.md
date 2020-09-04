@@ -6,8 +6,10 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-09-04
+  - [HTTP - TCP/IP](http/tcp-ip.md)
 - 2020-09-03
-  - [JVM运行时数据区概述 - 思否](https://segmentfault.com/a/1190000023859912)
+  - [JVM 运行时数据区概述 - 思否](https://segmentfault.com/a/1190000023859912)
 - 2020-09-02
   - [鸽了](https://baike.baidu.com/item/鸽了/23632502) 在折腾一些事，明天一定更新，咕咕咕
 - 2020-09-01

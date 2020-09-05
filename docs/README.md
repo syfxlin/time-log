@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-09-05
+  - [为什么说Java中只有值传递](https://hollischuang.github.io/toBeTopJavaer/#/basics/object-oriented/why-pass-by-reference)
 - 2020-09-04
   - [HTTP - TCP/IP](http/tcp-ip.md)
 - 2020-09-03

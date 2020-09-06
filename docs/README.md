@@ -7,7 +7,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 ## 时间轴
 
 - 2020-09-06
-  - [鸽了](https://baike.baidu.com/item/鸽了/23632502) 上了一个下午 + 一个晚上的课，md，累死了
+  - ~[鸽了](https://baike.baidu.com/item/鸽了/23632502) 上了一个下午 + 一个晚上的课，md，累死了~
+  - [万字图解Java多线程 - 掘金](https://juejin.im/post/6869209048105877518) 还是随便摸一篇文章看看吧
 - 2020-09-05
   - [为什么说 Java 中只有值传递](https://hollischuang.github.io/toBeTopJavaer/#/basics/object-oriented/why-pass-by-reference)
   - [HTTP - 域名](http/域名.md)

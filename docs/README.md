@@ -8,16 +8,17 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 - 2020-09-10
   - [硬核干货！抗住百万高并发的 6 个关键技术！](https://segmentfault.com/a/1190000023956701)
+  - [HTTP - 握手和挥手](http/握手和挥手.md)
 - 2020-09-09
-  - [2w字 + 40张图带你参透并发编程！](https://juejin.im/post/6862464169158344717)
+  - [2w 字 + 40 张图带你参透并发编程！](https://juejin.im/post/6862464169158344717)
   - 咕咕咕，主要是在写 XK-Editor v2 所以时间并不多，不过还是会日常更新的
 - 2020-09-08
-  - [Https相对Http更安全的加密原理探秘 - 掘金](https://juejin.im/post/6869644421491589128)
+  - [Https 相对 Http 更安全的加密原理探秘 - 掘金](https://juejin.im/post/6869644421491589128)
 - 2020-09-07
   - [为什么一个还没毕业的大学生能够把 IO 讲的这么好？- 掘金](https://juejin.im/post/6869537077122301965)
 - 2020-09-06
   - ~[鸽了](https://baike.baidu.com/item/鸽了/23632502) 上了一个下午 + 一个晚上的课，md，累死了~
-  - [万字图解Java多线程 - 掘金](https://juejin.im/post/6869209048105877518) 还是随便摸一篇文章看看吧
+  - [万字图解 Java 多线程 - 掘金](https://juejin.im/post/6869209048105877518) 还是随便摸一篇文章看看吧
 - 2020-09-05
   - [为什么说 Java 中只有值传递](https://hollischuang.github.io/toBeTopJavaer/#/basics/object-oriented/why-pass-by-reference)
   - [HTTP - 域名](http/域名.md)

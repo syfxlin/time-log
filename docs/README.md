@@ -7,16 +7,17 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 ## 时间轴
 
 - 2020-09-16
-  - [SpringBoot自适应异常处理 - 掘金](https://juejin.im/post/6872596588733153294)
+  - [SpringBoot 自适应异常处理 - 掘金](https://juejin.im/post/6872596588733153294)
+  - [HTTP - 报文](http/报文.md)
 - 2020-09-15
   - 感冒了，休息一天，咕咕咕
 - 2020-09-14
-  - [透视HTTPS建造固若金汤的城堡 - 思否](https://segmentfault.com/a/1190000024454980)
+  - [透视 HTTPS 建造固若金汤的城堡 - 思否](https://segmentfault.com/a/1190000024454980)
 - 2020-09-13
-  - [5000字 | 24张图带你彻底理解Java中的21种锁 - 掘金](https://juejin.im/post/6867922895536914446)
+  - [5000 字 | 24 张图带你彻底理解 Java 中的 21 种锁 - 掘金](https://juejin.im/post/6867922895536914446)
   - 好几天都没什么集中的时间来学习了，上课是真的耽误学习，不仅把我大把学习的时间都占走，还把时间拆的很散。。。
 - 2020-09-12
-  - [【精读】你知道Spring中BeanFactoryPostProcessors是如何执行的吗？- 掘金](https://juejin.im/post/6871022521785942023)
+  - [【精读】你知道 Spring 中 BeanFactoryPostProcessors 是如何执行的吗？- 掘金](https://juejin.im/post/6871022521785942023)
 - 2020-09-11
   - 咕咕咕
 - 2020-09-10

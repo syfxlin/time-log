@@ -8,7 +8,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: Build
-        run: rm -f yarn.lock && yarn && yarn build
+        run: yarn && yarn build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

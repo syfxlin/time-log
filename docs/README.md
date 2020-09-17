@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-09-17
+  - [面试：为了进阿里，必须掌握HashMap原理和面试题（图解版一）- 思否](https://segmentfault.com/a/1190000024485062)
 - 2020-09-16
   - [SpringBoot 自适应异常处理 - 掘金](https://juejin.im/post/6872596588733153294)
   - [HTTP - 报文](http/报文.md)

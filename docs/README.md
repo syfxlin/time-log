@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-09-19
+  - [「Java并发编程」线程池相关知识点整理 - 思否](https://segmentfault.com/a/1190000024516702)
 - 2020-09-18
   - [Java反应式框架Reactor中的Mono和Flux - 掘金](https://juejin.im/post/6873475421388832782)
 - 2020-09-17

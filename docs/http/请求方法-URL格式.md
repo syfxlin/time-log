@@ -1,6 +1,6 @@
 ---
 title: HTTP - 请求方法和URL格式
-date: 2020-09-10
+date: 2020-09-20
 categories:
   - HTTP
 tags:

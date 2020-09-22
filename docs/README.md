@@ -7,19 +7,20 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 ## 时间轴
 
 - 2020-09-22
-  - [经典IO模型及线程模型总结 - 掘金](https://juejin.im/post/6874898561985839118)
+  - [经典 IO 模型及线程模型总结 - 掘金](https://juejin.im/post/6874898561985839118)
   - [关于多线程中抛异常的这个面试题我再说最后一次！- 掘金](https://juejin.im/post/6874798300130721806)
+  - [HTTP - 响应状态码、数据类型、编码](http/响应状态码-数据类型-编码.md)
 - 2020-09-21
   - [我告诉你一个 AtomicInteger 的惊天大秘密 - 掘金](https://juejin.im/post/6874705527473963015)
 - 2020-09-20
-  - [HTTP - 请求方法和URL格式](http/请求方法-URL格式.md)
+  - [HTTP - 请求方法和 URL 格式](http/请求方法-URL格式.md)
 - 2020-09-19
-  - [「Java并发编程」线程池相关知识点整理 - 思否](https://segmentfault.com/a/1190000024516702)
+  - [「Java 并发编程」线程池相关知识点整理 - 思否](https://segmentfault.com/a/1190000024516702)
 - 2020-09-18
-  - [Java反应式框架Reactor中的Mono和Flux - 掘金](https://juejin.im/post/6873475421388832782)
+  - [Java 反应式框架 Reactor 中的 Mono 和 Flux - 掘金](https://juejin.im/post/6873475421388832782)
 - 2020-09-17
-  - [面试：为了进阿里，必须掌握HashMap原理和面试题（图解版一）- 思否](https://segmentfault.com/a/1190000024485062)
-  - [Java并发多线程基础总结 - 思否](https://segmentfault.com/a/1190000024480215)
+  - [面试：为了进阿里，必须掌握 HashMap 原理和面试题（图解版一）- 思否](https://segmentfault.com/a/1190000024485062)
+  - [Java 并发多线程基础总结 - 思否](https://segmentfault.com/a/1190000024480215)
 - 2020-09-16
   - [SpringBoot 自适应异常处理 - 掘金](https://juejin.im/post/6872596588733153294)
   - [HTTP - 报文](http/报文.md)

@@ -7,12 +7,13 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 ## 时间轴
 
 - 2020-09-25
-  - [ThreadPoolExecutor源码分析 - 掘金](https://juejin.im/post/6875618220984926216)
+  - [ThreadPoolExecutor 源码分析 - 掘金](https://juejin.im/post/6875618220984926216)
+  - [HTTP - 数据压缩、分段传输、范围请求](http/数据压缩-分段传输-范围请求.md)
 - 2020-09-24
   - 站被打了，修了半天，莫名奇妙被打，莫名奇妙黑洞。咕咕咕。
   - [Spring Clound 微服务 基础 - 掘金](https://juejin.im/post/6875871088706846727)
 - 2020-09-23
-  - [【JVM系列1】深入分析Java虚拟机堆和栈及OutOfMemory异常产生原因 - 思否](https://segmentfault.com/a/1190000024548673)
+  - [【JVM 系列 1】深入分析 Java 虚拟机堆和栈及 OutOfMemory 异常产生原因 - 思否](https://segmentfault.com/a/1190000024548673)
 - 2020-09-22
   - [经典 IO 模型及线程模型总结 - 掘金](https://juejin.im/post/6874898561985839118)
   - [关于多线程中抛异常的这个面试题我再说最后一次！- 掘金](https://juejin.im/post/6874798300130721806)

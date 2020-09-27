@@ -6,8 +6,10 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-09-27
+  - [HTTP - 连接管理、重定向与跳转](http/连接管理-重定向与跳转.md)
 - 2020-09-26
-  - [【Java并发编程】并发操作原子类Atomic以及CAS的ABA问题 - 思否](https://segmentfault.com/a/1190000025131009)
+  - [【Java 并发编程】并发操作原子类 Atomic 以及 CAS 的 ABA 问题 - 思否](https://segmentfault.com/a/1190000025131009)
   - 摸鱼中
 - 2020-09-25
   - [ThreadPoolExecutor 源码分析 - 掘金](https://juejin.im/post/6875618220984926216)

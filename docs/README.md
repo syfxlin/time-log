@@ -8,6 +8,7 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 - 2020-09-29
   - [HTTP - Cookie、Session](http/cookie-session.md)
+  - [【并发编程系列4】JMM中happens-before规则和as-if-serial语义 - 掘金](https://juejin.im/post/6877769459562938381)
 - 2020-09-28
   - 写了一天的代码，累死了，今天就鸽了吧
 - 2020-09-27

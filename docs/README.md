@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-09-30
+  - [【并发编程系列5】JUC必知ReentrantLock和AQS同步队列实现原理分析 - 掘金](https://juejin.im/post/6878135436561088520)
 - 2020-09-29
   - [HTTP - Cookie、Session](http/cookie-session.md)
   - [【并发编程系列4】JMM中happens-before规则和as-if-serial语义 - 掘金](https://juejin.im/post/6877769459562938381)

@@ -7,14 +7,16 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 ## 时间轴
 
 - 2020-10-02
+  - [HTTP - 缓存控制](http/缓存控制.md)
+- 2020-10-02
   - 日常摸鱼中
 - 2020-10-01
   - [服务注册与发现 — 选择 CP 还是 AP？- 掘金](https://juejin.im/post/6878124797805461518)
 - 2020-09-30
-  - [【并发编程系列5】JUC必知ReentrantLock和AQS同步队列实现原理分析 - 掘金](https://juejin.im/post/6878135436561088520)
+  - [【并发编程系列 5】JUC 必知 ReentrantLock 和 AQS 同步队列实现原理分析 - 掘金](https://juejin.im/post/6878135436561088520)
 - 2020-09-29
   - [HTTP - Cookie、Session](http/cookie-session.md)
-  - [【并发编程系列4】JMM中happens-before规则和as-if-serial语义 - 掘金](https://juejin.im/post/6877769459562938381)
+  - [【并发编程系列 4】JMM 中 happens-before 规则和 as-if-serial 语义 - 掘金](https://juejin.im/post/6877769459562938381)
 - 2020-09-28
   - 写了一天的代码，累死了，今天就鸽了吧
 - 2020-09-27

@@ -6,6 +6,10 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-10-10
+  - [Spring Boot自动配置的"魔法"是如何实现的？](https://sylvanassun.github.io/2018/01/08/2018-01-08-spring_boot_auto_configure/)
+- 2020-10-{06...09}
+  - 在折腾 [XK-Java](https://github.com/syfxlin/xkjava) 注解
 - 2020-10-05
   - 似乎又要感冒了，摸鱼几天
 - 2020-10-04

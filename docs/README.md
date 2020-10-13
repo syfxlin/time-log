@@ -6,6 +6,11 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-10-13
+  - [Java之锁的分类、原理及实例 - 掘金](https://juejin.im/post/6882622510148354056)
+  - 10 月忙死了，先摸鱼一个月再说。
+- 2020-10-{11...12}
+  - 摸鱼的同时在写 [XK-Java](https://github.com/syfxlin/xkjava)
 - 2020-10-10
   - [Spring Boot自动配置的"魔法"是如何实现的？](https://sylvanassun.github.io/2018/01/08/2018-01-08-spring_boot_auto_configure/)
 - 2020-10-{06...09}

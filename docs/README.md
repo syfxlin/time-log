@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-10-14
+  - [破解 Kotlin 协程 番外篇(1) - 协程为什么被称为『轻量级线程』？](https://www.bennyhuo.com/2019/10/19/coroutine-why-so-called-lightweight-thread/)
 - 2020-10-13
   - [Java之锁的分类、原理及实例 - 掘金](https://juejin.im/post/6882622510148354056)
   - 10 月忙死了，先摸鱼一个月再说。

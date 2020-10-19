@@ -6,6 +6,11 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-10-19
+  - [Jetty9源码剖析 - Connector组件 - IO模型](https://www.ph0ly.com/2018/09/24/jetty/connector/io-model/)
+  - [Jetty 的工作原理以及与 Tomcat 的比较](https://developer.ibm.com/zh/articles/j-lo-jetty/)
+- 2020-10-{15...18}
+  - 摸鱼
 - 2020-10-14
   - [破解 Kotlin 协程 番外篇(1) - 协程为什么被称为『轻量级线程』？](https://www.bennyhuo.com/2019/10/19/coroutine-why-so-called-lightweight-thread/)
 - 2020-10-13

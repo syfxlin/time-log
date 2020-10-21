@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-10-21
+  - [NIO 在Jetty中的应用](https://juejin.im/post/6844903984277225485)
 - 2020-10-19
   - [Jetty9源码剖析 - Connector组件 - IO模型](https://www.ph0ly.com/2018/09/24/jetty/connector/io-model/)
   - [Jetty 的工作原理以及与 Tomcat 的比较](https://developer.ibm.com/zh/articles/j-lo-jetty/)

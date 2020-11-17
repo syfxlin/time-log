@@ -12,33 +12,31 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 - 2020-{10-22...11-16}
   - 在折腾一堆比赛和考证
 - 2020-10-21
-  - [NIO 在Jetty中的应用](https://juejin.im/post/6844903984277225485)
+  - [NIO 在 Jetty 中的应用](https://juejin.im/post/6844903984277225485)
 - 2020-10-19
-  - [Jetty9源码剖析 - Connector组件 - IO模型](https://www.ph0ly.com/2018/09/24/jetty/connector/io-model/)
+  - [Jetty9 源码剖析 - Connector 组件 - IO 模型](https://www.ph0ly.com/2018/09/24/jetty/connector/io-model/)
   - [Jetty 的工作原理以及与 Tomcat 的比较](https://developer.ibm.com/zh/articles/j-lo-jetty/)
 - 2020-10-{15...18}
   - 摸鱼
 - 2020-10-14
   - [破解 Kotlin 协程 番外篇(1) - 协程为什么被称为『轻量级线程』？](https://www.bennyhuo.com/2019/10/19/coroutine-why-so-called-lightweight-thread/)
 - 2020-10-13
-  - [Java之锁的分类、原理及实例 - 掘金](https://juejin.im/post/6882622510148354056)
+  - [Java 之锁的分类、原理及实例 - 掘金](https://juejin.im/post/6882622510148354056)
   - 10 月忙死了，先摸鱼一个月再说。
 - 2020-10-{11...12}
   - 摸鱼的同时在写 [XK-Java](https://github.com/syfxlin/xkjava)
 - 2020-10-10
-  - [Spring Boot自动配置的"魔法"是如何实现的？](https://sylvanassun.github.io/2018/01/08/2018-01-08-spring_boot_auto_configure/)
+  - [Spring Boot 自动配置的"魔法"是如何实现的？](https://sylvanassun.github.io/2018/01/08/2018-01-08-spring_boot_auto_configure/)
 - 2020-10-{06...09}
   - 在折腾 [XK-Java](https://github.com/syfxlin/xkjava) 注解
 - 2020-10-05
   - 似乎又要感冒了，摸鱼几天
 - 2020-10-04
-  - [一文带你刨析class文件|掘金技术征文-双节特别篇 - 掘金](https://juejin.im/post/6879633257621618702)
+  - [一文带你刨析 class 文件|掘金技术征文-双节特别篇 - 掘金](https://juejin.im/post/6879633257621618702)
 - 2020-10-03
   - 鸽了
 - 2020-10-02
   - [HTTP - 缓存控制](http/缓存控制.md)
-- 2020-10-02
-  - 日常摸鱼中
 - 2020-10-01
   - [服务注册与发现 — 选择 CP 还是 AP？- 掘金](https://juejin.im/post/6878124797805461518)
 - 2020-09-30

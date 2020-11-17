@@ -31,6 +31,11 @@ module.exports = {
     noFoundPageByTencent: false,
     nav: [
       {
+        text: "100 天编码",
+        link: "/100-days-of-code.html",
+        icon: "reco-api",
+      },
+      {
         text: "时间轴",
         link: "/timeline/",
         icon: "reco-date",

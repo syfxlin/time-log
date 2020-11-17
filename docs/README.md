@@ -6,6 +6,11 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-11-17
+  - 总算有空了（其实是摸鱼完了
+  - [Eat What You Kill without Starvation!](https://webtide.com/eat-what-you-kill-without-starvation/)
+- 2020-{10-22...11-16}
+  - 在折腾一堆比赛和考证
 - 2020-10-21
   - [NIO 在Jetty中的应用](https://juejin.im/post/6844903984277225485)
 - 2020-10-19

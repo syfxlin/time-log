@@ -6,6 +6,10 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-11-19
+  - [浅谈 EatWhatYouKill](https://blog.ixk.me/talk-about-eatwhatyoukill.html)
+- 2020-11-18
+  - [浅谈可扩展线程池](https://blog.ixk.me/talk-about-scalable-thread-pool.html)
 - 2020-11-17
   - 总算有空了（其实是摸鱼完了
   - [Eat What You Kill without Starvation!](https://webtide.com/eat-what-you-kill-without-starvation/)

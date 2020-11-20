@@ -6,6 +6,9 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-11-20
+  - [对象池化的艺术](https://juejin.cn/post/6844903985363566600)
+  - [面经手册 · 第18篇《AQS 共享锁，Semaphore、CountDownLatch，听说数据库连接池可以用到！》](https://segmentfault.com/a/1190000038219540)
 - 2020-11-19
   - [浅谈 EatWhatYouKill](https://blog.ixk.me/talk-about-eatwhatyoukill.html)
 - 2020-11-18

@@ -16,3 +16,5 @@ title: 100 天编码
   - [EatWhatYouKill (EPC 生产消费模型)](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day2)
 - Day3 (2020-11-20)
   - [ByteBuffer 对象池](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day3)
+- Day4 (2020-11-21)
+  - [参数名称获取器](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day4)

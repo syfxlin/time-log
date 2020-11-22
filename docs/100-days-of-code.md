@@ -18,3 +18,5 @@ title: 100 天编码
   - [ByteBuffer 对象池](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day3)
 - Day4 (2020-11-21)
   - [参数名称获取器](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day4)
+- Day5 (2020-11-22)
+  - [组合注解 (注解别名)](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day5)

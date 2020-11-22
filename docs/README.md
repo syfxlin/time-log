@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-11-22
+  - [Java 元注解及 Spring 组合注解应用](https://yanbin.blog/java-spring-meta-annotation/)
 - 2020-11-21
   - [为何 Spring MVC 可获取到方法参数名，而 MyBatis 却不行？](https://segmentfault.com/a/1190000020087502)
 - 2020-11-20

@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-11-25
+  - [Spring 最常用的 36 个注解，哪些你还不知道？](https://juejin.cn/post/6898610916486479879)
 - 2020-11-24
   - [Netty 源码解析系列](https://www.infoq.cn/profile/79D7928549B70F/publish)
 - 2020-11-23

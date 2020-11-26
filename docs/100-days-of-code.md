@@ -22,3 +22,5 @@ title: 100 天编码
   - [组合注解 (注解别名)](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day5)
 - Day6 (2020-11-25)
   - [Aop 切面](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day6)
+- Day6 (2020-11-26)
+  - [调度线程池 (支持 Cron 任务)](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day7)

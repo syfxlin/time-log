@@ -10,6 +10,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day8 (2020-11-28)
+  - [FastRoute (快速请求路由器)](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day8)
 - Day7 (2020-11-26)
   - [调度线程池 (支持 Cron 任务)](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day7)
 - Day6 (2020-11-25)

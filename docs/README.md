@@ -6,10 +6,12 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-11-28
+  - [Java - Exception 和 Error](java/exception-error.md)
 - 2020-11-27
-  - [Redis高级客户端Lettuce详解](https://juejin.cn/post/6844903954778701832)
+  - [Redis 高级客户端 Lettuce 详解](https://juejin.cn/post/6844903954778701832)
 - 2020-11-26
-  - [差点跪了！阿里3面真题：CAP和BASE理论了解么？可以结合实际案例说下不？](https://segmentfault.com/a/1190000038261686)
+  - [差点跪了！阿里 3 面真题：CAP 和 BASE 理论了解么？可以结合实际案例说下不？](https://segmentfault.com/a/1190000038261686)
 - 2020-11-25
   - [Spring 最常用的 36 个注解，哪些你还不知道？](https://juejin.cn/post/6898610916486479879)
 - 2020-11-24

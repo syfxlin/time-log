@@ -10,6 +10,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day9 (2020-11-30)
+  - [DataUtil (点语法，不区分命名获取)](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day9)
 - Day8 (2020-11-28)
   - [FastRoute (快速请求路由器)](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day8)
 - Day7 (2020-11-26)

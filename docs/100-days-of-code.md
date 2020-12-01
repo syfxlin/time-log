@@ -10,6 +10,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day10 (2020-12-01)
+  - [可见性 & 原子性问题及解决](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day10)
 - Day9 (2020-11-30)
   - [DataUtil (点语法，不区分命名获取)](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day9)
 - Day8 (2020-11-28)

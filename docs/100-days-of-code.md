@@ -10,6 +10,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day11 (2020-12-02)
+  - [锁失效 & 死锁问题及解决](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day11)
 - Day10 (2020-12-01)
   - [可见性 & 原子性问题及解决](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day10)
 - Day9 (2020-11-30)

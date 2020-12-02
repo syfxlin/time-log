@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-12-02
+  - [Java - 引用](java/reference.md)
 - 2020-12-01
   - [Java - 反射、动态代理](java/reflection-proxy.md)
 - 2020-11-30

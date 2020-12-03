@@ -2,7 +2,8 @@
 title: 100 天编码
 ---
 
-该项目建立的主因是一次不经意间看到的编码挑战 [#100DaysOfCode](https://www.100daysofcode.com/)，于是打算花上 100 天左右来提高自己的能力，后来咕咕掉了，直到最近 Twitter 上有小伙伴开始了类似的项目才回忆起来，然后就有了这个项目。
+该项目建立的主因是一次不经意间看到的编码挑战 [#100DaysOfCode](https://www.100daysofcode.com/)，于是打算花上 100
+天左右来提高自己的能力，后来咕咕掉了，直到最近 Twitter 上有小伙伴开始了类似的项目才回忆起来，然后就有了这个项目。
 
 该项目旨在深入探索 Java 技术栈，以及制作一些有趣的东西，学习新技术等等。项目中代码不一定为原创。
 
@@ -10,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day12 (2020-12-03)
+  - [锁分配器](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day12)
 - Day11 (2020-12-02)
   - [锁失效 & 死锁问题及解决](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day11)
 - Day10 (2020-12-01)

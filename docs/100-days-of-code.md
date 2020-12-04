@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day13 (2020-12-04)
+  - [Interrupted 问题及解决](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day13)
 - Day12 (2020-12-03)
   - [锁分配器](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day12)
 - Day11 (2020-12-02)

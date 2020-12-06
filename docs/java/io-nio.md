@@ -2,9 +2,9 @@
 title: IO、NIO
 date: 2020-12-06
 categories:
-- Java
-  tags:
-- 概念
+  - Java
+tags:
+  - 概念
 ---
 
 ## 同步、异步、阻塞、非阻塞

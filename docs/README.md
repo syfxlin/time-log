@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-12-09
+  - [Java - 垃圾回收](java/garbagecollection.md)
 - 2020-12-08
   - [Java - 内存区域](java/memoryarea.md)
 - 2020-12-07

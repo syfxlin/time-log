@@ -6,8 +6,10 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-12-11
+  - [Java - 阻塞队列](java/blockingqueue.md)
 - 2020-12-10
-  - [线程状态和 ThreadLocal](java/threadstate-threadlocal.md)
+  - [Java - 线程状态和 ThreadLocal](java/threadstate-threadlocal.md)
 - 2020-12-09
   - [Java - 垃圾回收](java/garbagecollection.md)
 - 2020-12-08

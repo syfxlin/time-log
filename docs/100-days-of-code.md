@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day20 (2020-12-11)
+  - [SqlBuilder](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day20)
 - Day19 (2020-12-10)
   - [软件事务内存](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day19)
 - Day18 (2020-12-09)

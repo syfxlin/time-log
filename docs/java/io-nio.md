@@ -41,7 +41,7 @@ AIO 和 NIO 类似，只不过把 Selector 的职责交给操作系统实现，�
 
 ## NIO 一些类
 
-- Buffer：高效的数据容器，除了布尔类型，所有原始数据类型都有相应的 Buffer 实现。
-- Channel：类似在 Linux 之类操作系统上看到的文件描述符，是 NIO 中被用来支持批量式 IO 操作的一种抽象。
-- Selector：是 NIO 实现多路复用的基础，它提供了一种高效的机制，可以检测到注册在 Selector 上的多个 Channel 中，是否有 Channel 处于就绪状态，进而实现了单线程对多 Channel 的高效管理。Selector 同样是基于底层操作系统机制，不同模式、不同版本都存在区别。Linux 上依赖于 epoll，Windows 上依赖于 iocp。
-- Charset：提供 Unicode 字符串定义，NIO 也提供了相应的编解码器等。
+- **Buffer**：高效的数据容器，除了布尔类型，所有原始数据类型都有相应的 Buffer 实现。
+- **Channel**：类似在 Linux 之类操作系统上看到的文件描述符，是 NIO 中被用来支持批量式 IO 操作的一种抽象。
+- **Selector**：是 NIO 实现多路复用的基础，它提供了一种高效的机制，可以检测到注册在 Selector 上的多个 Channel 中，是否有 Channel 处于就绪状态，进而实现了单线程对多 Channel 的高效管理。Selector 同样是基于底层操作系统机制，不同模式、不同版本都存在区别。Linux 上依赖于 epoll，Windows 上依赖于 iocp。
+- **Charset**：提供 Unicode 字符串定义，NIO 也提供了相应的编解码器等。

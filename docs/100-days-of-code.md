@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day23 (2020-12-14)
+  - [代理内部调用问题](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day23)
 - Day22 (2020-12-13)
   - [ThreadLocal & 并发工具使用问题](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day22)
 - Day21 (2020-12-12)

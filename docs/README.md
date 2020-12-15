@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-12-15
+  - [Java - synchronized & volatile](java/synchronized-volatile.md)
 - 2020-12-14
   - [Java - CAS、AQS](java/cas-aqs.md)
 - 2020-12-13

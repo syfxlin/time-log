@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day24 (2020-12-15)
+  - [判等和 hash 问题](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day24)
 - Day23 (2020-12-14)
   - [代理内部调用问题](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day23)
 - Day22 (2020-12-13)

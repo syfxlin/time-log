@@ -75,3 +75,34 @@ class Solution {
 }
 
 ```
+
+```java
+class Solution {
+
+  public boolean wordPattern(final String pattern, final String s) {
+    final String[] words = s.split(" ");
+    final int pl = pattern.length();
+    if (words.length != pl) {
+      return false;
+    }
+    final String[] map = new String[26];
+    final Set<String> set = new HashSet<>();
+    for (int i = 0; i < pl; i++) {
+      final int c = pattern.charAt(i) - 'a';
+      if (map[c] == null) {
+        if (set.contains(words[i])) {
+          return false;
+        }
+        map[c] = words[i];
+        set.add(words[i]);
+      } else {
+        if (!map[c].equals(words[i])) {
+          return false;
+        }
+      }
+    }
+    return true;
+  }
+}
+
+```

@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day26 (2020-12-17)
+  - [List 问题](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day26)
 - Day25 (2020-12-16)
   - [浮点数问题](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day25)
 - Day24 (2020-12-15)

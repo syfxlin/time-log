@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day29 (2020-12-20)
+  - [反射问题](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day29)
 - Day28 (2020-12-19)
   - [文件操作问题](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day28)
 - Day27 (2020-12-18)

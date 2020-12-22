@@ -2,7 +2,7 @@
 title: 单例模式
 date: 2020-12-21
 categories:
-  - Java
+  - 设计模式
 tags:
   - 概念
 ---

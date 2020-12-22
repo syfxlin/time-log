@@ -6,8 +6,10 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-12-22
+  - [设计模式 - 工厂模式](design-pattern/factory.md)
 - 2020-12-21
-  - [设计模式 - 单例模式](https://github.com/syfxlin/code/tree/master/design-pattern-java/src/main/java/me/ixk/design_pattern/singleton)
+  - [设计模式 - 单例模式](design-pattern/singleton.md)
 - 2020-12-20
   - 咕咕咕
 - 2020-12-19

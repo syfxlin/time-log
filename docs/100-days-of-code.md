@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day31 (2020-12-22)
+  - [工厂模式](https://github.com/syfxlin/code/tree/master/design-pattern-java/src/main/java/me/ixk/design_pattern/factory)
 - Day30 (2020-12-21)
   - [单例模式](https://github.com/syfxlin/code/tree/master/design-pattern-java/src/main/java/me/ixk/design_pattern/singleton)
 - Day29 (2020-12-20)

@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day32 (2020-12-23)
+  - [建造者模式](https://github.com/syfxlin/code/tree/master/design-pattern-java/src/main/java/me/ixk/design_pattern/builder)
 - Day31 (2020-12-22)
   - [工厂模式](https://github.com/syfxlin/code/tree/master/design-pattern-java/src/main/java/me/ixk/design_pattern/factory)
 - Day30 (2020-12-21)

@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day33 (2020-12-24)
+  - [新 IoC 容器](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day33)
 - Day32 (2020-12-23)
   - [建造者模式](https://github.com/syfxlin/code/tree/master/design-pattern-java/src/main/java/me/ixk/design_pattern/builder)
 - Day31 (2020-12-22)

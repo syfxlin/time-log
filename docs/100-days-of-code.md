@@ -11,10 +11,12 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day36 (2020-12-27)
+  - [桥接模式](https://github.com/syfxlin/code/tree/master/design-pattern-java/src/main/java/me/ixk/design_pattern/bridge)
 - Day35 (2020-12-26)
-  - [代理模式](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day35)
+  - [代理模式](https://github.com/syfxlin/code/tree/master/design-pattern-java/src/main/java/me/ixk/design_pattern/proxy)
 - Day34 (2020-12-25)
-  - [原型模式](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day34)
+  - [原型模式](https://github.com/syfxlin/code/tree/master/design-pattern-java/src/main/java/me/ixk/design_pattern/prototype)
 - Day33 (2020-12-24)
   - [新 IoC 容器](https://github.com/syfxlin/code/tree/master/100-days-of-code/java/src/main/java/me/ixk/days/day33)
 - Day32 (2020-12-23)

@@ -80,3 +80,33 @@ class Solution {
 }
 
 ```
+
+```java
+class Solution {
+
+  public boolean isIsomorphic(final String s, final String t) {
+    final int len = s.length();
+    if (len != t.length()) {
+      return false;
+    }
+    final int[] sm = new int[128];
+    final int[] tm = new int[128];
+    for (int i = 0; i < len; i++) {
+      final char sc = s.charAt(i);
+      final char tc = t.charAt(i);
+      if (sm[sc] == 0) {
+        sm[sc] = tc;
+      } else if (sm[sc] != tc) {
+        return false;
+      }
+      if (tm[tc] == 0) {
+        tm[tc] = sc;
+      } else if (tm[tc] != sc) {
+        return false;
+      }
+    }
+    return true;
+  }
+}
+
+```

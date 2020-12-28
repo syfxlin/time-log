@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2020-12-28
+  - [设计模式 - 装饰器模式](design-pattern/decorator.md)
 - 2020-12-27
   - [设计模式 - 桥接模式](design-pattern/bridge.md)
 - 2020-12-26

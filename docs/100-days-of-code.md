@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day38 (2020-12-29)
+  - [适配器模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/adapter)
 - Day37 (2020-12-28)
   - [装饰器模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/decorator)
 - Day36 (2020-12-27)

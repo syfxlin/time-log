@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day42 (2021-01-02)
+  - [观察者模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/observer)
 - Day41 (2021-01-01)
   - [享元模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/flyweight)
 - Day40 (2020-12-31)

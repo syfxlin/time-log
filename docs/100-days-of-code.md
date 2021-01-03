@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day43 (2021-01-03)
+  - [模板模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/template)
 - Day42 (2021-01-02)
   - [观察者模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/observer)
 - Day41 (2021-01-01)

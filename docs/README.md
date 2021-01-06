@@ -6,6 +6,8 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2021-01-06
+  - [设计模式 - 状态模式](design-pattern/state.md)
 - 2021-01-05
   - [设计模式 - 责任链模式](design-pattern/chain.md)
 - 2021-01-04

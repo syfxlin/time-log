@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day46 (2021-01-06)
+  - [状态模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/state)
 - Day45 (2021-01-05)
   - [责任链模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/chain)
 - Day44 (2021-01-04)

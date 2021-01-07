@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day47 (2021-01-07)
+  - [迭代器模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/iterator)
 - Day46 (2021-01-06)
   - [状态模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/state)
 - Day45 (2021-01-05)

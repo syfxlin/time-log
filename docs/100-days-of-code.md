@@ -11,6 +11,8 @@ title: 100 天编码
 
 ## 时间轴
 
+- Day52 (2021-01-13)
+  - [中介模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/mediator)
 - Day51 (2021-01-12)
   - [解释器模式](https://github.com/syfxlin/code/blob/master/design-pattern-java/src/main/java/me/ixk/design_pattern/interpreter)
 - Day50 (2021-01-11)

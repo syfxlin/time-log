@@ -6,6 +6,9 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2021-01-14
+  - [Java 并发编程之 JMM & volatile 详解](https://segmentfault.com/a/1190000038926896)
+  - 刚考完试，设计模式系列也写完了，摸鱼一天.jpg
 - 2021-01-13
   - [设计模式 - 中介模式](design-pattern/mediator.md)
   - [设计模式和重构](https://refactoringguru.cn/design-patterns)

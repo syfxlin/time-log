@@ -6,6 +6,9 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2021-01-15
+  - [浅谈组合注解 & 注解别名](https://blog.ixk.me/talking-about-merged-annotation.html)
+  - 再摸鱼一（几）天，没啥 #100DaysOfCode 没啥灵感，先停一下吧 2333。
 - 2021-01-14
   - [Java 并发编程之 JMM & volatile 详解](https://segmentfault.com/a/1190000038926896)
   - 刚考完试，设计模式系列也写完了，摸鱼一天.jpg

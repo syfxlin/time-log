@@ -6,6 +6,10 @@ Otstar Lin 的时间日志，主要记录一些简短的学习内容，如技术
 
 ## 时间轴
 
+- 2021-01-18
+  - [理解 Java 中的 ThreadLocal - 技术小黑屋](https://droidyue.com/blog/2016/03/13/learning-threadlocal-in-java/)
+  - [ThreadLocal 夺命 4 问](https://juejin.cn/post/6917793256977891335)
+  - 最近在尝试使用 Obsidian 笔记软件，所以时间日志就缓慢更新了。
 - 2021-01-15
   - [浅谈组合注解 & 注解别名](https://blog.ixk.me/talking-about-merged-annotation.html)
   - 再摸鱼一（几）天，没啥 #100DaysOfCode 没啥灵感，先停一下吧 2333。
